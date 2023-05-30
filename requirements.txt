@@ -2,3 +2,4 @@ aequilibrae
 matplotlib
 shapely
 openmatrix
+jupyterlab
