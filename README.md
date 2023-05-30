@@ -3,6 +3,9 @@ This is a simple demo of AequilibraE, using a model built with a network from OS
 
 It has been tested with Python 3.10 running on Windows 11
 
+An [example model](https://github.com/outerl/AequilibraE-demo/releases/download/Freeworld/LongAn_base_model.zip) for the Vietnamese province of LongAn is
+used as the example in this tutorial. 
+
 The setup below assumes you have Python, Windows Terminal, and Visual Studio Code installed.
 
 
