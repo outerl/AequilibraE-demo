@@ -15,10 +15,10 @@ It consists of a few examples:
 
 Models used in these examples
 
-* [Gold Coast model](https://github.com/outerl/AequilibraE-demo/releases/download/Freeworld/LongAn_base_model.zip) 
+* [Gold Coast model](https://github.com/outerl/AequilibraE-demo/releases/download/poli_2026/goldcoast.zip) 
    which was imported from [TNTP networks] (https://github.com/bstabler/TransportationNetworks).
 
-* [LongAn model](https://github.com/outerl/AequilibraE-demo/releases/download/Freeworld/LongAn_base_model.zip) 
+* [LongAn model](https://github.com/outerl/AequilibraE-demo/releases/download/poli_2026/LongAn_base_model.zip) 
    with a network imported from OSM and synthetic demand data
 
 * The Coquimbo model is shipped with AequilibraE as one of its examples 
@@ -68,7 +68,7 @@ https://github.com/outerl/AequilibraE-demo/tags
 
 Existing tags are:
 
-* itm_2023 - Original version of this repository, presented at the 2023 TRB Innovations in Travel Modelling conference in Indianapolis, Indiana USA between June 3rd and June 6th
+* Freeworld - Original version of this repository, presented at the 2023 TRB Innovations in Travel Modelling conference in Indianapolis, Indiana USA between June 3rd and June 6th
   Our webpage for this conference(http://itm2023.outerloop.io) has more information 
 
 * poli_2026 - Presented at the Escola Politécnica da Universidade de São Paulo, Brasil
