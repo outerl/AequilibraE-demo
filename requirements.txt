@@ -1,5 +1,5 @@
 aequilibrae
 matplotlib
-shapely
-openmatrix
-jupyterlab
+jupyter
+folium
+mapclassify
